@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qasimraza786
+- 👋 Hi, I’m @ QASIM RAZA
 - 👀 I’m interested in DATA ANALYST/ SQL / POWER BI
 - 🌱 I’m currently learning  PYTHON
 - 💞️ I’m looking to collaborate on PROJECT ON WORLD HUNGER INDEX
